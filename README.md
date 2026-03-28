@@ -1,3 +1,3 @@
 Aurthor-Ghulam Naseeruddin
 # Calculator
-My first Project .
+My first Project.
